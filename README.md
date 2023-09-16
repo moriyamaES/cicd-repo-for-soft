@@ -1,2 +1,2 @@
-# cicd-repo-for-soft
-CI/CD環境テスト用ソフトウェア・リポジトリ
+# cicd-repo-for-source-code
+CI/CD環境テスト用ソースコード・リポジトリ
