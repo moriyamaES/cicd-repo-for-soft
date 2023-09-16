@@ -1,2 +1,2 @@
-# semver-test-for-soft
+# cicd-test-for-soft
 ソフトのsemverテスト用リポジトリ
